@@ -1,6 +1,30 @@
 # Data-analysis-End-to-End
-End to End project on Data Analysis using Python, SQL and PowerBi. Project inspired by similar project made By Ankit Bansal on youtube, very insightful and educating.
-
-In this project I took a dataset from kaggle and used Kaggle Api to get the dataset in python, worked on the dataset using pandas library and cleaned the dataset.
-
-Further added the cleaned table to Sql server and ran few queries on it for analysis. From there connected the sql server to PowerBi and created a basic dashboard for visualisation.
+Project Overview: End-to-End Data Analytics with Python and SQL
+Key Components
+**Data Extraction:** Use Kaggle API to download dataset
+**Data Processing:** Clean and transform data using Pandas
+**Data Loading:** Load processed data into SQL Server
+**Data Analysis**: Perform analytical queries on the dataset
+**Recommended Project Steps**
+**Data Extraction**
+  Use Kaggle API to download a retail orders dataset
+  Generate Kaggle API token
+  Download dataset as CSV file
+  Data Preprocessing with Pandas
+  Handle null values
+  Standardize column names
+ ** Create derived columns:**
+    Discount column
+    Sale price
+    Profit calculation
+    Convert data types (e.g., order date to datetime)
+**Data Loading**
+  Use SQLAlchemy to connect to SQL Server
+  Create appropriate table schema
+  Load processed data into SQL database
+**Data Analysis Queries**
+  Potential analysis questions include:
+    Top revenue-generating products
+    Month-over-month sales comparison
+    Highest selling products by category
+    Profit growth by subcategory
