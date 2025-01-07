@@ -1,12 +1,21 @@
 # Data-analysis-End-to-End
+
 Project Overview: End-to-End Data Analytics with Python and SQL
+
 Key Components
+
 **Data Extraction:** Use Kaggle API to download dataset
+
 **Data Processing:** Clean and transform data using Pandas
+
 **Data Loading:** Load processed data into SQL Server
+
 **Data Analysis**: Perform analytical queries on the dataset
+
 **Recommended Project Steps**
+
 **Data Extraction**
+
   Use Kaggle API to download a retail orders dataset
   Generate Kaggle API token
   Download dataset as CSV file
