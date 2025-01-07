@@ -1,5 +1,8 @@
 # Data-analysis-End-to-End
 
+![image](https://github.com/user-attachments/assets/3a667b39-bc65-433a-af94-535b39cd5bf6)
+
+
 Project Overview: End-to-End Data Analytics with Python and SQL
 
 Key Components
